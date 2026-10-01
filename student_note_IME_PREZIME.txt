@@ -1,0 +1,1 @@
+echo Moje ime je Marko Petrovic. Trenutni datum: 01.10.2026. > student_note_Marko_Petrovic.txt
